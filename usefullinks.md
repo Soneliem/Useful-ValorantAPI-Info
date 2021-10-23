@@ -30,8 +30,10 @@ A list of useful tools, wrappers and documentation that will be useful while dev
 #### PHP
 - [**authspace**](https://github.com/weedeej/authspace) by weedeej
 
-#### C#
+#### C# / .NET
 - [**ValAPI.Net**](https://github.com/brianbaldner/ValAPI.Net) by brianbaldner
+
+- [**ValorantSharp**](https://github.com/narkdev/ValorantSharp) by narkdev
 
 - [**Valorant .NET**](https://github.com/ValorantAppDevelopers/Valorant-NET) by ValorantAppDevelopers
   - Uses Henrik-3's [**unofficial-valorant-api**](https://github.com/Henrik-3/unofficial-valorant-api)

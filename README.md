@@ -9,16 +9,25 @@ Useful links, resources and code snippets related to Valorants Unofficial API. I
 
 ## General Information
 - [What is the API](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/whatisit.md)
-  - [Local APIs](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/whatisit.md)
+  - [Local APIs](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/whatisit.md#local-apis-https127001lockfile-port)
+  - [Authentication](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/whatisit.md#authentication)
   - [Regions](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/whatisit.md#regions)
 - [Unspoken Rules](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/unspokenrules.md)
-- [Glossery of Common Terms](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/glossery.md)
+- [Glossary of Common Terms](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/glossary.md)
 
 ## Useful Links
-[A list of useful tools, wrappers and documentation that will be useful while developing tools and apps using the API](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/unspokenrules.md)
+[Useful tools, wrappers and documentation that will be useful while developing tools and apps using the API](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/usefullinks.md)
+- [Endpoints Information](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/usefullinks.md#endpoints-information)
+- [3rd Party APIs](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/usefullinks.md#3rd-party-apis)
+- [API Wrappers](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/usefullinks.md#api-wrappers)
 
 ## Code Snippets
-[Personal and community snippets in various languages](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/codesnippets.md)
+[Useful code snippets in various languages](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/codesnippets.md)
+- [Authentication](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/codesnippets.md#authentication)
+- [Re-Authentication](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/codesnippets.md#re-authentication)
 
 ## Apps that use the API
 [Link of Apps and Services that are powered by the API](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/apps.md)
+
+## Glossary
+[Terms and Info that might be confusing](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/glossary.md)
