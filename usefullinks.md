@@ -27,6 +27,8 @@ A list of useful tools, wrappers and documentation that will be useful while dev
 #### JavaScript / NodeJS
 - [**valorant.js**](https://github.com/liamcottle/valorant.js) by liamcottle
 
+- [**valorant-api**](https://github.com/BurakDev/valorant-api) by BurakDev
+
 #### PHP
 - [**authspace**](https://github.com/weedeej/authspace) by weedeej
 

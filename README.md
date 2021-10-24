@@ -1,5 +1,5 @@
 # Useful Valorant API Info
-Useful links, resources and code snippets related to Valorants Unofficial API. If you want your app, website or service added, either make a PR yourself or send me a message so I can add it manually.
+Useful links, resources and code snippets related to Valorant's Unofficial API. If you want your app, website or service added, either make a PR yourself or send me a message so I can add it manually.
 
 <!-- ## Table Of Contents
   * [General Information](#general-information)
