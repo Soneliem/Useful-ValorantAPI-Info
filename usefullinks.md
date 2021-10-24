@@ -1,7 +1,7 @@
 A list of useful tools, wrappers and documentation that will be useful while developing tools and apps using the API
 
 ## Endpoints Information
-- [**Valorant API Docs**](https://github.com/techchrism/valorant-api-docs/tree/trunk/docs) by techchrism
+- ⭐[**Valorant API Docs**](https://github.com/techchrism/valorant-api-docs/tree/trunk/docs) by techchrism
   - This is a repo dedicated to documenting the Valorant API endpoints the client uses internally. It contains info about the endpoints and how to use them.
 
 - [**Valorant Client API**](https://github.com/RumbleMike/ValorantClientAPI) by RumbleMike
@@ -11,7 +11,7 @@ A list of useful tools, wrappers and documentation that will be useful while dev
   - List of Endpoints
 
 ## 3rd Party APIs:
-- [**valorant-api.com**](https://valorant-api.com/) by NotOfficer
+- ⭐[**valorant-api.com**](https://valorant-api.com/) by NotOfficer
   - An extensive API containing data of most in-game items, assets and more
 
 - [**unofficial-valorant-api**](https://github.com/Henrik-3/unofficial-valorant-api) by Henrik-3
@@ -39,7 +39,7 @@ A list of useful tools, wrappers and documentation that will be useful while dev
   - Uses Henrik-3's [**unofficial-valorant-api**](https://github.com/Henrik-3/unofficial-valorant-api)
 
 #### Dart / Flutter
-- [**valorant_client**](https://github.com/ArunPrakashG/valorant_client) by ArunPrakashG
+- ⭐[**valorant_client**](https://github.com/ArunPrakashG/valorant_client) by ArunPrakashG
   - Available on [pub.dev](https://pub.dev/packages/valorant_client)
 
 - [**Valorant-Client-Api-Dart**](https://github.com/berkekbgz/Valorant-Client-Api-Dart/) by berkekbgz
