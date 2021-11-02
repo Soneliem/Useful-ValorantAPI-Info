@@ -15,7 +15,7 @@ Each URL changes depending on the region. Additionally they are separated into s
 | North America |   NA   |   NA  | Canada, USA             |
 | Asia Pacific  |   AP   |   AP  | India, China, Australia |
 | Europe        |   EU   |   EU  | Russia, UK              |
-| Korea         |   KO   |   KO  | Korea                   |
+| Korea         |   KR   |   KR  | Korea                   |
 | LATAM         |  LATAM |   NA  | Mexico, Argentina       |
 | Brazil        |   BR   |   NA  | Brazil                  |
 
