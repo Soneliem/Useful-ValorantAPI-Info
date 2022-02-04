@@ -3,7 +3,7 @@ Code Snippets that might be useful. For ones I have added myself, I have made di
 #### Authentication
 Standard authentication flow using username and password
 - [**C#**](https://github.com/RumbleMike/ValorantAuth/blob/master/Program.cs)
-- [**Python**](https://github.com/RumbleMike/ValorantClientAPI/blob/master/Docs/RSO_AuthFlow.py)
+- [**Python**](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/snippets/authentication/auth.cs)
 - [**PHP**](https://gist.github.com/BurakDev/fa802dfb9866f34b90fa7502ef11291b)
 
 #### 2FA
