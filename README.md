@@ -27,6 +27,9 @@ Useful links, resources and code snippets related to Valorant's Unofficial API. 
 - [Re-Authentication](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/codesnippets.md#re-authentication)
 - [IGN from PUUID](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/codesnippets.md#ign-from-puuid)
 
+## Sample Resposnses
+[Example responses from various API calls](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/sampleresponses.md)
+
 ## Apps that use the API
 [Link of Apps and Services that are powered by the API](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/apps.md)
 

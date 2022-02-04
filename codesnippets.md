@@ -6,6 +6,10 @@ Standard authentication flow using username and password
 - [**Python**](https://github.com/RumbleMike/ValorantClientAPI/blob/master/Docs/RSO_AuthFlow.py)
 - [**PHP**](https://gist.github.com/BurakDev/fa802dfb9866f34b90fa7502ef11291b)
 
+#### 2FA
+Submit 2FA code if needed
+ - [**Explanation**](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/snippets/2FA.md)
+
 #### Authentication from LockFile
 Get Authentication Headers from local files if Valorant is running
 - [**C#**](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/snippets/lockfile/lockfile.cs)

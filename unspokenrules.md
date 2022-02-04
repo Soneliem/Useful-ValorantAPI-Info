@@ -5,4 +5,4 @@
 - Don't override things like streamer mode
 - Don't save login details
 - Don't impersonate Riot Employees
-- Don't pretend to be hacking
+- Don't pretend to be hacking / hacked

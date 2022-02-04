@@ -5,7 +5,7 @@ if (File.Exists(lockfileLocation)) {
   {
     string[] parts = sr.ReadToEnd().Split(":");
     Port = parts[2];
-    LPassword = parts[3];
+    LocalPassword = parts[3];
     Protocol = parts[4];
   }
 }
