@@ -14,6 +14,9 @@ Links to Apps and Services that are powered by the API. These are organised by A
 ## JP (weedeej)
 [**ValorantCC:**](https://github.com/weedeej/ValorantCC) Change your Crosshair's color to ANY color you want for style and/or visiblity.
 
+## RumleMike (ValorLeaks)
+[**Assist:**](https://github.com/RumbleMike/Assist)
+C# VALORANT Extension Launcher that adds contains different features regarding VALORANT
 ## PenguinDevs
 [**ValoTracker:**](https://valotracker.com/) VALORANT Statistics Discord bot
 

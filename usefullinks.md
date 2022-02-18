@@ -33,6 +33,8 @@ A list of useful tools, wrappers and documentation that will be useful while dev
 - [**authspace**](https://github.com/weedeej/authspace) by weedeej
 
 #### C# / .NET
+- [**ValNet**](https://github.com/RumbleMike/ValNet) by RumbleMike
+
 - [**ValAPI.Net**](https://github.com/brianbaldner/ValAPI.Net) by brianbaldner
 
 - [**ValorantSharp**](https://github.com/narkdev/ValorantSharp) by narkdev

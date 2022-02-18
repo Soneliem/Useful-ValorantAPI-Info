@@ -1,6 +1,6 @@
 var lockfileLocation = $@"{Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData)}\Riot Games\Riot Client\Config\lockfile";
 if (File.Exists(lockfileLocation)) {
-  using (FileStream fileStream = new(lockfileLocation, FileMode.Open, FileAccess.ReadWrite, FileShare.ReadWrite))
+  using (FileStream fileStream = new(lockfileLocation, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
   using (StreamReader sr = new(fileStream))
   {
     string[] parts = sr.ReadToEnd().Split(":");
