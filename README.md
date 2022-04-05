@@ -13,6 +13,7 @@ Useful links, resources and code snippets related to Valorant's Unofficial API. 
   - [Authentication](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/whatisit.md#authentication)
   - [Regions](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/whatisit.md#regions)
 - [Unspoken Rules](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/unspokenrules.md)
+- [Is using the API bannable](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/isitbannable.md)
 - [Glossary of Common Terms](https://github.com/Soneliem/Useful-ValorantAPI-Info/blob/main/glossary.md)
 
 ## Useful Links
