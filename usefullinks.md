@@ -1,4 +1,4 @@
-A list of useful tools, wrappers and documentation that will be useful while developing tools and apps using the API
+A list of useful tools, wrappers and documentation that will be useful while developing tools and apps using the API. Please note that I only accept apps that are open source due to the whole sharing-your-password thing.
 
 ## Endpoints Information
 - ⭐[**Valorant API Docs**](https://github.com/techchrism/valorant-api-docs/tree/trunk/docs) by techchrism
@@ -21,10 +21,16 @@ A list of useful tools, wrappers and documentation that will be useful while dev
 #### Python
 - [**valclient.py**](https://github.com/colinhartigan/valclient.py) by colinhartigan
 
+- [**riot-auth**](https://github.com/floxay/python-riot-auth) by floxay
+  - Helps bypass Cloudflare filters when authenticating
+
 - [**valorant.py**](https://github.com/frissyn/valorant.py) by frissyn
   - This is focussed on the official API but also has support for the local API
 
 #### JavaScript / NodeJS
+
+- [**valorant.ts**](https://github.com/KTNG-3/valorant-api) by KTNG-3
+- 
 - [**valorant.js**](https://github.com/liamcottle/valorant.js) by liamcottle
 
 - [**valorant-api**](https://github.com/BurakDev/valorant-api) by BurakDev
